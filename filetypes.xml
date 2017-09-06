@@ -1,7 +1,8 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="avdl" approved="true" type="Avro™ IDL" />
+      <removed_mapping ext="avdl" type="Avro™ IDL" />
+      <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
 </application>
