@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="accentColor" value="7CB342" />
+    <option name="highlightColor" value="80cbc4" />
+    <option name="accentColor" value="7cb342" />
     <option name="useMaterialIcons" value="false" />
     <option name="compactSidebar" value="true" />
     <option name="isCompactStatusBar" value="true" />
