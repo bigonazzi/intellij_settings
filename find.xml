@@ -3,6 +3,7 @@
     <option name="customScope" value="Project Files" />
     <option name="defaultScopeName" value="Project Files" />
     <option name="SEARCH_SCOPE" value="Project Files" />
+    <option name="FILE_MASK" value="*.gradle" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -15,6 +16,21 @@
       <mask>*.mxml</mask>
       <mask>*.conf</mask>
       <mask>*.scala</mask>
+      <mask>bn</mask>
+      <mask>b</mask>
+      <mask>bin.</mask>
+      <mask>bin</mask>
+      <mask>bin/</mask>
+      <mask>bin/.</mask>
+      <mask>bin/...</mask>
+      <mask>bin/..</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.g</mask>
+      <mask>*.gr</mask>
+      <mask>*.gra</mask>
+      <mask>*.grad</mask>
+      <mask>*.gradl</mask>
       <mask>*.gradle</mask>
     </recentFileMasks>
   </component>
